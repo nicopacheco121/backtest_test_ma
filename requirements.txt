@@ -1,0 +1,3 @@
+talipp
+pandas
+matplotlib
